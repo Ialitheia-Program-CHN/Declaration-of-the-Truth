@@ -1,5 +1,7 @@
 # Declaration of the Truth (en-us)
 
+[en-us AmE](./README.md) | [zh-cn 简体中文](./README%20zh-cn.md)
+
 In a world dominated by capitalists and dictators, it is necessary to declare the reasons and goals of a media that reveals the truth to the public in order to gain the support of the people.
 
 We hold this truth to be self-evident, that knowing the truth is one of the inherent and unalienable rights of the people.
